@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.card--width {
+  min-width: 16rem;
+  max-width: 33.333333%;
+  box-sizing: border-box;
+}
+
+.action-panel--height {
+  height: 4rem;
+}
+
+.select--width {
+  width: 10rem;
+}
